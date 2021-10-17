@@ -1,19 +1,19 @@
 export const INFORMATION = {
   avatar: "/assets/avatar.jpg",
   banner: "/assets/banner.jpg",
-  title: "URBN Catering",
+  title: "Cielito Azul",
   description: "Galardonada pizza estilo New Haven en Palermo SOHO.",
-  phone: `5491141414141`,
-  sheet: `https://docs.google.com/spreadsheets/d/e/2PACX-1vQG1pOSbGxaJYzlOWF2t7KFyP5wtWo_EDS0crTllQtALvDDZBq7OwxvTDJwM4dmasW7wmNh6KFB443j/pub?output=csv`,
+  phone: `51928717437`,
+  sheet: `https://docs.google.com/spreadsheets/d/e/2PACX-1vTnNtHzoeWLIUAPm1kQjQUYVfA0XRcV85Z07fZg4tDTf_M4KXbcdm1WcJSx8DeiCvHAeHebB1xsv7qQ/pubhtml`,
   color: `teal`,
   social: [
     {
       name: "instagram",
-      url: `https://instagram.com/goncy.js`,
+      url: `https://instagram.com/cielitoazul.js`,
     },
     {
       name: "whatsapp",
-      url: `https://wa.me/5491141414141`,
+      url: `https://wa.me/51928717437`,
     },
   ],
 };
