@@ -21,7 +21,7 @@ const App: React.FC<AppProps> = ({Component, pageProps}) => {
   return (
     <>
       <Head>
-        <title>Sanguchito - Barranca</title>
+        <title>Distribuidora Yahayra</title>
         <meta content="initial-scale=1.0, width=device-width" name="viewport" />
         {/* Inicio de meta tags de licencia - Cambiar el contenido de los mismos viola el contenido de los terminos de licencia */}
         <meta content="goncy" name="author" />
